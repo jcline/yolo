@@ -1,0 +1,9 @@
+#We don't want to commit vendor stuff
+vendor
+vendor.orig
+
+#build artifacts
+yolo
+
+#vim tho
+.*.sw*
